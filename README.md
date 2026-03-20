@@ -1,4 +1,4 @@
-# Hi, I'm Benjamin 👋
+# Hi, I'm Attabeezy 👋
 
 ⚙️ **ML Practitioner** | 🧠 **AI Researcher** | 🌐 **Telecom @ KNUST (2026)**
 
