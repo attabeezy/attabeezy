@@ -15,7 +15,6 @@
 ## Current Projects
 
 - 📊 **[seqcredit-model](https://github.com/attabeezy/seqcredit-model)** - Sequential credit risk modelling for data-constrained environments
-- 💬 **[semweight-equity](https://github.com/attabeezy/semweight-equity)** - Semantic weighing for equitable language modeling
 - 🕹️ **[streamlit-lab](https://github.com/attabeezy/streamlit-lab)** - Rapid ML experimentation with Streamlit apps
 - 🔧 **[extensions-lab](https://github.com/attabeezy/extensions-lab)** - Utility extensions and tools for Python workflows
 - 📚 **[computer-lab](https://github.com/attabeezy/computer-lab)** - Tracking my learning journey through books and courses
