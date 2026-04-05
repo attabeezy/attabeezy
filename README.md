@@ -15,6 +15,10 @@
 ## Current Projects
 
 - 📊 **[seqcredit-model](https://github.com/attabeezy/seqcredit-model)** - Sequential credit risk modelling for data-constrained environments
+- 📱 **[edge-tutor](https://github.com/attabeezy/edge-tutor)** - Offline, on-device RAG tutoring assistant for Android
+- 📈 **[risk-engine](https://github.com/attabeezy/risk-engine)** - Complete Python implementation of the Risk Engine by Quant Enthusiast community
+- 🗞️ **[newsLime](https://github.com/attabeezy/newsLime)** - Machine learning news classification using LIME for Explainable AI (XAI)
+- 📄 **[papergo](https://github.com/attabeezy/papergo)** - Academic Paper Aggregator for arXiv, Semantic Scholar, and OpenReview
 - 🕹️ **[streamlit-lab](https://github.com/attabeezy/streamlit-lab)** - Rapid ML experimentation with Streamlit apps
 - 🔧 **[extensions-lab](https://github.com/attabeezy/extensions-lab)** - Utility extensions and tools for Python workflows
 - 📚 **[computer-lab](https://github.com/attabeezy/computer-lab)** - Tracking my learning journey through books and courses
@@ -24,6 +28,12 @@
 - **Building with ML** — applying probabilistic and sequential models to solve domain-specific problems
 - **Exploring AI research** — reading anything and everything AI, LLMs, AI agents, and DRL
 - **Studying breadth-first** — working through AI/ML, quant finance, and engineering in parallel
+
+## Honors & Awards
+
+- 🏅 **YARA Research Fellow** (2025)
+- 🤖 **Claude Campus Ambassador** (2026)
+- 🛰️ **NASA Space Apps Challenge Volunteer** (Oct 2025)
 
 ## Connect
 
