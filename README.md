@@ -29,12 +29,6 @@
 - **Exploring AI research** — reading anything and everything AI, LLMs, AI agents, and DRL
 - **Studying breadth-first** — working through AI/ML, quant finance, and engineering in parallel
 
-## Honors & Awards
-
-- 🏅 **YARA Research Fellow** (2025)
-- 🤖 **Claude Campus Ambassador** (2026)
-- 🛰️ **NASA Space Apps Challenge Volunteer** (Oct 2025)
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://attabeezy.github.io)
