@@ -42,14 +42,14 @@
 
 ### Philosophy
 
-> "Start with a real problem, stay close to the data." ~ I build things to understand them, then share what I learn.
+> "Start with a real problem, stay close to the fundamentals." ~ I build things to understand them, then share what I learn.
 
 <details>
 <summary>Random Facts</summary>
 
-- Telecom undergrad moonlighting as an ML researcher
+- Telecom undergrad moonlighting into AI/ML
 - Believe the best models are the ones that actually deploy
-- Drawn to problems where data is messy, scarce, or biased
+- Drawn to problems where I can make an impact
 - Quant finance is the next rabbit hole, hopefully
 
 </details>
