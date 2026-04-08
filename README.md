@@ -25,8 +25,8 @@
 
 ## What I'm Doing
 
-- **Building with ML** — applying probabilistic and sequential models to solve domain-specific problems
-- **Exploring AI research** — reading anything and everything AI, LLMs, AI agents, and DRL
+- **Building with ML** — applying machine learning to solve domain-specific problems
+- **Exploring AI research** — reading anything and everything AI/ML, from LLMs to Agents
 - **Studying breadth-first** — working through AI/ML, quant finance, and engineering in parallel
 
 ## Connect
