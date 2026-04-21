@@ -26,8 +26,8 @@
 
 ## What I'm Doing
 
-- **Building with ML** — applying probabilistic and sequential models to solve domain-specific problems
-- **Exploring AI research** — reading anything and everything AI, LLMs, AI agents, and DRL
+- **Building with ML** — applying machine learning to solve domain-specific problems
+- **Exploring AI research** — reading anything and everything AI/ML, from LLMs to Agents
 - **Studying breadth-first** — working through AI/ML, quant finance, and engineering in parallel
 
 ## Connect
@@ -43,14 +43,14 @@
 
 ### Philosophy
 
-> "Start with a real problem, stay close to the data." ~ I build things to understand them, then share what I learn.
+> "Start with a real problem, stay close to the fundamentals." ~ I build things to understand them, then share what I learn.
 
 <details>
 <summary>Random Facts</summary>
 
-- Telecom undergrad moonlighting as an ML researcher
+- Telecom undergrad moonlighting into AI/ML
 - Believe the best models are the ones that actually deploy
-- Drawn to problems where data is messy, scarce, or biased
+- Drawn to problems where I can make an impact
 - Quant finance is the next rabbit hole, hopefully
 
 </details>
