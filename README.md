@@ -19,6 +19,7 @@
 - 📈 **[risk-engine](https://github.com/attabeezy/risk-engine)** - Complete Python implementation of the Risk Engine by Quant Enthusiast community
 - 🗞️ **[newsLime](https://github.com/attabeezy/newsLime)** - Machine learning news classification using LIME for Explainable AI (XAI)
 - 📄 **[papergo](https://github.com/attabeezy/papergo)** - Academic Paper Aggregator for arXiv, Semantic Scholar, and OpenReview
+- 🇬🇭 **[akan-bpe](https://github.com/attabeezy/akan-bpe)** - Tokenizer-only Twi experiments for studying the Tokenization Tax
 - 🕹️ **[streamlit-lab](https://github.com/attabeezy/streamlit-lab)** - Rapid ML experimentation with Streamlit apps
 - 🔧 **[extensions-lab](https://github.com/attabeezy/extensions-lab)** - Utility extensions and tools for Python workflows
 - 📚 **[computer-lab](https://github.com/attabeezy/computer-lab)** - Tracking my learning journey through books and courses
