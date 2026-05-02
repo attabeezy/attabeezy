@@ -22,7 +22,7 @@
 - 🇬🇭 **[akan-bpe](https://github.com/attabeezy/akan-bpe)** - Tokenizer-only Twi experiments for studying the Tokenization Tax
 - 🕹️ **[streamlit-lab](https://github.com/attabeezy/streamlit-lab)** - Rapid ML experimentation with Streamlit apps
 - 🔧 **[extensions-lab](https://github.com/attabeezy/extensions-lab)** - Utility extensions and tools for Python workflows
-- 📚 **[computer-lab](https://github.com/attabeezy/computer-lab)** - Tracking my learning journey through books and courses
+- 📚 **[study-log](https://github.com/attabeezy/study-log)** - Tracking my learning journey through books and courses
 
 ## What I'm Doing
 
