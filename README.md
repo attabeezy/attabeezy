@@ -14,6 +14,7 @@
 
 ## Current Projects
 
+- 🏭 **[autosource](https://github.com/attabeezy/autosource)** - Autonomous agentic pipeline transforming static PDF reports into high-fidelity synthetic datasets for Africa
 - 📊 **[seqcredit-model](https://github.com/attabeezy/seqcredit-model)** - Sequential credit risk modelling for data-constrained environments
 - 📱 **[edge-tutor](https://github.com/attabeezy/edge-tutor)** - Offline, on-device RAG tutoring assistant for Android
 - 📈 **[risk-engine](https://github.com/attabeezy/risk-engine)** - Complete Python implementation of the Risk Engine by Quant Enthusiast community
