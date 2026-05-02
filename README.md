@@ -14,10 +14,10 @@
 
 ## Current Projects
 
-- 🏭 **[autosource](https://github.com/attabeezy/autosource)** - Autonomous agentic pipeline transforming static PDF reports into high-fidelity synthetic datasets for Africa
+- 🏭 **[autosource](https://github.com/attabeezy/autosource)** - Autonomous pipeline for static PDF reports to high-fidelity synthetic datasets
 - 📊 **[seqcredit-model](https://github.com/attabeezy/seqcredit-model)** - Sequential credit risk modelling for data-constrained environments
 - 📱 **[edge-tutor](https://github.com/attabeezy/edge-tutor)** - Offline, on-device RAG tutoring assistant for Android
-- 📈 **[risk-engine](https://github.com/attabeezy/risk-engine)** - Complete Python implementation of the Risk Engine by Quant Enthusiast community
+- 📈 **[risk-engine](https://github.com/attabeezy/risk-engine)** - Complete Python implementation of the Risk Engine by Quant Enthusiast
 - 🗞️ **[newsLime](https://github.com/attabeezy/newsLime)** - Machine learning news classification using LIME for Explainable AI (XAI)
 - 📄 **[papergo](https://github.com/attabeezy/papergo)** - Academic Paper Aggregator for arXiv, Semantic Scholar, and OpenReview
 - 🇬🇭 **[akan-bpe](https://github.com/attabeezy/akan-bpe)** - Tokenizer-only Twi experiments for studying the Tokenization Tax
