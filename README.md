@@ -14,16 +14,16 @@
 
 ## Current Projects
 
-- 🏭 **[autosource](https://github.com/attabeezy/autosource)** - Autonomous pipeline for static PDF reports to high-fidelity synthetic datasets
-- 📊 **[seqcredit-model](https://github.com/attabeezy/seqcredit-model)** - Sequential credit risk modelling for data-constrained environments
-- 📱 **[edge-tutor](https://github.com/attabeezy/edge-tutor)** - Offline, on-device RAG tutoring assistant for Android
-- 📈 **[risk-engine](https://github.com/attabeezy/risk-engine)** - Complete Python implementation of the Risk Engine by Quant Enthusiast
-- 🗞️ **[newsLime](https://github.com/attabeezy/newsLime)** - Machine learning news classification using LIME for Explainable AI (XAI)
-- 📄 **[papergo](https://github.com/attabeezy/papergo)** - Academic Paper Aggregator for arXiv, Semantic Scholar, and OpenReview
-- 🇬🇭 **[akan-bpe](https://github.com/attabeezy/akan-bpe)** - Tokenizer-only Twi experiments for studying the Tokenization Tax
-- 🕹️ **[streamlit-lab](https://github.com/attabeezy/streamlit-lab)** - Rapid ML experimentation with Streamlit apps
-- 🔧 **[extensions-lab](https://github.com/attabeezy/extensions-lab)** - Utility extensions and tools for Python workflows
-- 📚 **[study-log](https://github.com/attabeezy/study-log)** - Tracking my learning journey through books and courses
+- 🏭 **[autosource](https://github.com/attabeezy/autosource)** - autonomous pipeline for static PDF reports to high-fidelity synthetic datasets
+- 📊 **[seqcredit-model](https://github.com/attabeezy/seqcredit-model)** - sequential credit risk modelling for data-constrained environments
+- 📱 **[edge-tutor](https://github.com/attabeezy/edge-tutor)** - offline, on-device RAG tutoring assistant for Android
+- 📈 **[risk-engine](https://github.com/attabeezy/risk-engine)** - complete Python implementation of the Risk Engine by Quant Enthusiast
+- 🗞️ **[newsLime](https://github.com/attabeezy/newsLime)** - machine learning news classification using LIME for Explainable AI (XAI)
+- 📄 **[papergo](https://github.com/attabeezy/papergo)** - academic Paper Aggregator for arXiv, Semantic Scholar, and OpenReview
+- 🇬🇭 **[akan-bpe](https://github.com/attabeezy/akan-bpe)** - tokenizer-only Twi experiments for studying the Tokenization Tax
+- 🕹️ **[streamlit-lab](https://github.com/attabeezy/streamlit-lab)** - rapid ML experimentation with Streamlit apps
+- 🔧 **[extensions-lab](https://github.com/attabeezy/extensions-lab)** - utility extensions and tools for Python workflows
+- 📚 **[study-log](https://github.com/attabeezy/study-log)** - tracking my learning journey through books and courses
 
 ## What I'm Doing
 
