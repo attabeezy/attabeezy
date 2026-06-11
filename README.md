@@ -12,7 +12,7 @@
 
 > Working at the intersection of machine learning and real-world constraints — from credit risk modeling to language models. Currently reading *Practical Deep Learning for Coders* ([progress log](https://github.com/attabeezy/computer-lab)).
 
-## Current Projects
+## Projects
 
 - 🤖 **[agentdataset](https://github.com/attabeezy/agentdataset)** - autonomously discover knowledge and orchestrate agents to generate datasets 
 - 📊 **[seqcredit-model](https://github.com/attabeezy/seqcredit-model)** - sequential credit risk modelling for data-constrained environments
