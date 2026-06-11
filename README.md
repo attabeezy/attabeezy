@@ -10,7 +10,7 @@
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=flat-square)](https://claude.ai/)
 [![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=flat-square)](https://gemini.google.com/)
 
-> Working at the intersection of machine learning and real-world constraints — from credit risk modeling to language models. Currently reading *Practical Deep Learning for Coders* ([progress log](https://github.com/attabeezy/computer-lab)).
+> Working at the intersection of machine learning and real-world constraints — from credit risk modeling to language models. Currently reading *Practical Deep Learning for Coders* ([progress log](https://github.com/attabeezy/study-log)).
 
 ## Projects
 
