@@ -14,7 +14,7 @@
 
 ## Projects
 
-- 🤖 **[agentdataset](https://github.com/attabeezy/agentdataset)** - autonomously discover knowledge and orchestrate agents to generate datasets 
+- 🤖 **[agentdataset](https://github.com/attabeezy/agentdataset)** - discover knowledge and orchestrate agents to generate datasets 
 - 📊 **[seqcredit-model](https://github.com/attabeezy/seqcredit-model)** - sequential credit risk modelling for data-constrained environments
 - 📱 **[edge-tutor](https://github.com/attabeezy/edge-tutor)** - offline, on-device RAG tutoring assistant for Android
 - 📈 **[risk-engine](https://github.com/attabeezy/risk-engine)** - complete Python implementation of the Risk Engine by Quant Enthusiast
